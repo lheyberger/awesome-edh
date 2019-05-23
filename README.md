@@ -55,5 +55,5 @@ A curated list of awesome EDH / MTG Commander resources
 - [MagicalHacker](https://tappedout.net/users/MagicalHacker) - Lists of staple cards grouped by function
 
 ## Tools
-- [EDHRec](https://edhrec.com)
-- [Tappedout](https://tappedout.net)
+- [EDHRec](https://edhrec.com) - Cards and archetypes suggestions per commander
+- [Tappedout](https://tappedout.net) - Deck building and search engine
