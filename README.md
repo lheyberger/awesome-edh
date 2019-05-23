@@ -1,6 +1,13 @@
 # awesome-edh
 A curated list of awesome EDH / MTG Commander resources
 
+## Table of Content
+- [Rules](#rules)
+- [Articles](#articles)
+- [Podcasts](#podcasts)
+- [Youtube Shows](#youtube-shows)
+- [Staple by Function](#staple-by-function)
+
 ## Rules
 - [MTG Commander](www.mtgcommander.net) - Official MTG Commander website
 - [WotC Commander Format](https://magic.wizards.com/en/content/commander-format) - Official Commander rules by WotC
@@ -21,7 +28,7 @@ A curated list of awesome EDH / MTG Commander resources
 - [MTG Goldfish Commander Clash](https://www.youtube.com/channel/UCZAZTSd0xnor7hJFmINIBIw/videos)
 - [The Commander's Quarters](https://www.youtube.com/channel/UC-w5MNByr4SNy3z2232sj0g/videos)
 
-## List of Commander Staple by Function
+## Staple by Function
 - [MagicalHacker](https://tappedout.net/users/MagicalHacker)
   - [Draw Steady](https://tappedout.net/mtg-decks/mh-draw-steady)
   - [Draw Burst](https://tappedout.net/mtg-decks/mh-draw-burst)
