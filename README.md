@@ -1,4 +1,4 @@
-# awesome-edh
+# Awesome EDH [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 A curated list of awesome EDH / MTG Commander resources
 
 ## Table of Content
