@@ -57,3 +57,4 @@ A curated list of awesome EDH / MTG Commander resources
 ## Tools
 - [EDHRec](https://edhrec.com) - Cards and archetypes suggestions per commander
 - [Tappedout](https://tappedout.net) - Deck building and search engine
+- [Manabase Crafter](http://manabasecrafter.com/) - Manabase building tool
