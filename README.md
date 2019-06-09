@@ -19,12 +19,12 @@ A curated list of awesome EDH / MTG Commander resources
 
 ## Articles
 - [EDHRec Articles](https://articles.edhrec.com)
-- [MTG Goldfish Budget Commander](https://www.mtggoldfish.com/series/budget-commander)
 - [Commander Theory](http://commandertheory.com/general)
 - [Channel Fireball](https://www.channelfireball.com/tag/commander/)
 - [MTGGoldfish](https://www.mtggoldfish.com)
   - [Commander](https://www.mtggoldfish.com/articles/search?tag=commander)
   - [Budget Commander](https://www.mtggoldfish.com/series/budget-commander)
+- [Cardmarket Insights](https://www.cardmarket.com/en/Magic/Insight/Tags/Commander)
 
 ## Podcasts
 - The Command Zone - [Collected Company](https://commandzone.collected.company) - [Apple Podcasts](https://itunes.apple.com/podcast/the-command-zone/id898023861) - [Deezer](https://www.deezer.com/show/45025)
