@@ -11,29 +11,33 @@ A curated list of awesome EDH / MTG Commander resources
 - [Tools](#tools)
 
 ## Rules
-- [MTG Commander](www.mtgcommander.net) - Official MTG Commander website
+- [MTG Commander](https://www.mtgcommander.net) - Official MTG Commander website
 - [WotC Commander Format](https://magic.wizards.com/en/content/commander-format) - Official Commander rules by WotC
-- [Duel Commander](http://www.duelcommander.com) - Duel Commander rules variant
+- [Duel Commander](https://www.duelcommander.com) - Duel Commander rules variant
 - [Pauper Commander](https://pauperedh.weebly.com/pauper-commander-rules.html) - Pauper Commander rules
 - [Peasant Commander](https://pauperedh.weebly.com/peasant-commander-rules.html) - Pauper Commander rules
 
 ## Articles
-- [EDHRec Articles](https://articles.edhrec.com)
-- [Commander Theory](http://commandertheory.com/general)
+- [Cardmarket Insights](https://www.cardmarket.com/en/Magic/Insight/Tags/Commander)
 - [Channel Fireball](https://www.channelfireball.com/tag/commander/)
+- [Commander Theory](https://commandertheory.com/general)
+- [EDHRec Articles](https://articles.edhrec.com)
+- [Hipsters of the Coast](https://www.hipstersofthecoast.com)
 - [MTGGoldfish](https://www.mtggoldfish.com)
   - [Commander](https://www.mtggoldfish.com/articles/search?tag=commander)
   - [Budget Commander](https://www.mtggoldfish.com/series/budget-commander)
-- [Cardmarket Insights](https://www.cardmarket.com/en/Magic/Insight/Tags/Commander)
 
 ## Podcasts
 - The Command Zone - [Collected Company](https://commandzone.collected.company) - [Apple Podcasts](https://itunes.apple.com/podcast/the-command-zone/id898023861) - [Deezer](https://www.deezer.com/show/45025)
-- [Brainstorm Brewery](http://brainstormbrewery.com) - [Stitcher](http://www.stitcher.com/podcast/brainstorm-brewery) - [Apple Podcasts](https://itunes.apple.com/podcast/brainstorm-brewery-brainstorm/id977062606) - [Deezer](https://www.deezer.com/show/7445)
+- [Brainstorm Brewery](https://brainstormbrewery.com) - [Stitcher](https://www.stitcher.com/podcast/brainstorm-brewery) - [Apple Podcasts](https://itunes.apple.com/podcast/brainstorm-brewery-brainstorm/id977062606) - [Deezer](https://www.deezer.com/show/7445)
 
 ## Youtube Shows
+- [Casually Competitive](https://www.youtube.com/channel/UCYMffqzsFtyN7RsrYQffnzg) - Semi competitive EDH gameplay videos
 - [Jumbo Commander](https://www.youtube.com/channel/UCPqT2ULat4WIzWKqpAAOlIQ) - Tons of deck techs
 - [MTG Goldfish Commander Clash](https://www.youtube.com/channel/UCZAZTSd0xnor7hJFmINIBIw) - Lot of commander related content
 - [MTG Muddstah](https://www.youtube.com/channel/UCG8Yi6I_XYjYtvFgOleqYxg) - Commander related content
+- [Play to Win](https://www.youtube.com/channel/UC7339iJMCETmek3jdx9LOkg) - cEDH gameplay videos
+- [Playing With Power](https://www.youtube.com/channel/UCum8N4KUUC0l_NK_mybvilg) - cEDH gameplay videos
 - [The Command Zone](https://www.youtube.com/channel/UCLsiaNUb42gRAP7ewbJ0ecQ) - Deck techs, reviews, games and general command talk
 - [The Commander's Quarters](https://www.youtube.com/channel/UC-w5MNByr4SNy3z2232sj0g) - Budget deck techs and articles
 - [The Spike Feeders](https://www.youtube.com/channel/UCGh7-4mDFssqhu_UpOwRzIA) - cEDH channel with some casual play
@@ -51,10 +55,12 @@ A curated list of awesome EDH / MTG Commander resources
 - [@thespikefeeders](https://twitter.com/thespikefeeders) - The Spike Feeders
 
 ## Staple Cards
-- [Commander Theory](http://commandertheory.com/Staples) - Lists of staple cards grouped by color
+- [Commander Theory](https://commandertheory.com/Staples) - Lists of staple cards grouped by color
 - [MagicalHacker](https://tappedout.net/users/MagicalHacker) - Lists of staple cards grouped by function
 
 ## Tools
 - [EDHRec](https://edhrec.com) - Cards and archetypes suggestions per commander
 - [Tappedout](https://tappedout.net) - Deck building and search engine
-- [Manabase Crafter](http://manabasecrafter.com/) - Manabase building tool
+- [Manabase Crafter](http://manabasecrafter.com) - Manabase building tool
+- [deckstats](https://deckstats.net) - Deck building
+- [Archidekt](https://www.archidekt.com) - Deck building
