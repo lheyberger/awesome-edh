@@ -22,14 +22,21 @@ A curated list of awesome EDH / MTG Commander resources
 - [Channel Fireball](https://www.channelfireball.com/tag/commander/)
 - [Commander Theory](https://commandertheory.com/general)
 - [EDHRec Articles](https://articles.edhrec.com)
-- [Hipsters of the Coast](https://www.hipstersofthecoast.com)
+- [Hipsters of the Coast](https://www.hipstersofthecoast.com/tag/commander/)
 - [MTGGoldfish](https://www.mtggoldfish.com)
   - [Commander](https://www.mtggoldfish.com/articles/search?tag=commander)
   - [Budget Commander](https://www.mtggoldfish.com/series/budget-commander)
 
 ## Podcasts
-- The Command Zone - [Collected Company](https://commandzone.collected.company) - [Apple Podcasts](https://itunes.apple.com/podcast/the-command-zone/id898023861) - [Deezer](https://www.deezer.com/show/45025)
-- [Brainstorm Brewery](https://brainstormbrewery.com) - [Stitcher](https://www.stitcher.com/podcast/brainstorm-brewery) - [Apple Podcasts](https://itunes.apple.com/podcast/brainstorm-brewery-brainstorm/id977062606) - [Deezer](https://www.deezer.com/show/7445)
+- The Command Zone
+  - [Website](https://commandzone.collected.company)
+  - [Apple Podcasts](https://itunes.apple.com/podcast/the-command-zone/id898023861)
+  - [Deezer](https://www.deezer.com/show/45025)
+- Brainstorm Brewery
+  - [Website](https://brainstormbrewery.com)
+  - [Apple Podcasts](https://itunes.apple.com/podcast/brainstorm-brewery-brainstorm/id977062606)
+  - [Deezer](https://www.deezer.com/show/7445)
+  - [Stitcher](https://www.stitcher.com/podcast/brainstorm-brewery)
 
 ## Youtube Shows
 - [Casually Competitive](https://www.youtube.com/channel/UCYMffqzsFtyN7RsrYQffnzg) - Semi competitive EDH gameplay videos
