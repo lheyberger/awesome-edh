@@ -30,13 +30,21 @@ A curated list of awesome EDH / MTG Commander resources
 ## Podcasts
 - The Command Zone
   - [Website](https://commandzone.collected.company)
-  - [Apple Podcasts](https://itunes.apple.com/podcast/the-command-zone/id898023861)
+  - [Apple Podcasts](https://podcasts.apple.com/podcast/the-command-zone/id898023861)
   - [Deezer](https://www.deezer.com/show/45025)
 - Brainstorm Brewery
   - [Website](https://brainstormbrewery.com)
-  - [Apple Podcasts](https://itunes.apple.com/podcast/brainstorm-brewery-brainstorm/id977062606)
+  - [Apple Podcasts](https://podcasts.apple.com/podcast/brainstorm-brewery-brainstorm/id977062606)
   - [Deezer](https://www.deezer.com/show/7445)
-  - [Stitcher](https://www.stitcher.com/podcast/brainstorm-brewery)
+- Commander's Brew
+  - [Apple Podcasts](https://podcasts.apple.com/podcast/commanders-brew/id1018124010)
+  - [Deezer](https://www.deezer.com/show/29743)
+- Commander Cookout
+  - [Apple Podcasts](https://podcasts.apple.com/podcast/commander-cookout-podcast/id1241094874)
+  - [Deezer](https://www.deezer.com/show/1040362)
+- Commander Time!
+  - [Apple Podcasts](https://podcasts.apple.com/podcast/commander-time/id1249882486)
+  - [Deezer](https://www.deezer.com/show/761562)
 
 ## Youtube Shows
 - [Casually Competitive](https://www.youtube.com/channel/UCYMffqzsFtyN7RsrYQffnzg) - Semi competitive EDH gameplay videos
