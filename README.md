@@ -80,3 +80,4 @@ A curated list of awesome EDH / MTG Commander resources
 - [deckstats](https://deckstats.net) - Deck building
 - [Archidekt](https://www.archidekt.com) - Deck building
 - [Moxfield](https://www.moxfield.com) - Deck building
+- [MTG.Design](https://mtg.design) - Custom cards design tool
