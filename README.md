@@ -82,3 +82,4 @@ A curated list of awesome EDH / MTG Commander resources
 - [Archidekt](https://www.archidekt.com) - Deck building
 - [Moxfield](https://www.moxfield.com) - Deck building
 - [MTG.Design](https://mtg.design) - Custom cards design tool
+- [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
