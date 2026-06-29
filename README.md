@@ -84,3 +84,4 @@ A curated list of awesome EDH / MTG Commander resources
 - [MTG.Design](https://mtg.design) - Custom cards design tool
 - [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
 - [MoxMythic](https://moxmythic.com) - Collection tracker & card catalog with finish-aware price history and a browser-based card scanner.
+- [EDHLAB](https://edhlab.gg) - Playtest decks and play commander online for free.
