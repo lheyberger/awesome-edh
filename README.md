@@ -84,5 +84,6 @@ A curated list of awesome EDH / MTG Commander resources
 - [MTG.Design](https://mtg.design) - Custom cards design tool
 - [Fetch](https://www.fetch-mtg.com) - Know which Commander deck contains any card. Cross-deck search, version diffs, and shopping lists.
 - [MoxMythic](https://moxmythic.com) - Collection tracker & card catalog with finish-aware price history and a browser-based card scanner.
+- [Binderlyst](https://binderlyst.github.io/) - Free Android app that scans MTG cards in rapid batches and tracks your collection, with folders, condition grades, prices, decks, want lists and set completion.
 - [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 - [EDHLAB](https://edhlab.gg) - Playtest decks and play commander online for free.
