@@ -78,6 +78,7 @@ A curated list of awesome EDH / MTG Commander resources
 - [Tappedout](https://tappedout.net) - Deck building and search engine
 - [Manabase Crafter](http://manabasecrafter.com) - Manabase building tool
 - [ScrollVault Mana Base Calculator](https://scrollvault.net/tools/manabase/) - Optimal land count calculator using Frank Karsten's hypergeometric formulas, with Commander support
+- [DeckFlow](https://www.deckflow.gg) - Free, no-login deck analysis: mana-base castability with Frank Karsten's hypergeometric math, deck comparison, cEDH meta-gap, and Moxfield/Archidekt import.
 - [deckstats](https://deckstats.net) - Deck building
 - [Archidekt](https://www.archidekt.com) - Deck building
 - [Moxfield](https://www.moxfield.com) - Deck building
