@@ -87,4 +87,4 @@ A curated list of awesome EDH / MTG Commander resources
 - [MoxMythic](https://moxmythic.com) - Collection tracker & card catalog with finish-aware price history and a browser-based card scanner.
 - [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 - [EDHLAB](https://edhlab.gg) - Playtest decks and play commander online for free.
-- - [The Index](https://tcgstrat.com) - Pricing and expected-value tracking for single cards and sealed product
+- [The Index](https://tcgstrat.com/index) - Pricing and expected-value tracking for single cards and sealed product
