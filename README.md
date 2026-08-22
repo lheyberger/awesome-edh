@@ -26,6 +26,7 @@ A curated list of awesome EDH / MTG Commander resources
 - [MTGGoldfish](https://www.mtggoldfish.com)
   - [Commander](https://www.mtggoldfish.com/articles/search?tag=commander)
   - [Budget Commander](https://www.mtggoldfish.com/series/budget-commander)
+- [TCGStrat](https://tcgstrat.com) - Commander/EDH strategy articles
 
 ## Podcasts
 - The Command Zone
@@ -88,3 +89,4 @@ A curated list of awesome EDH / MTG Commander resources
 - [Binderlyst](https://binderlyst.github.io/) - Free Android app that scans MTG cards in rapid batches and tracks your collection, with folders, condition grades, prices, decks, want lists and set completion.
 - [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 - [EDHLAB](https://edhlab.gg) - Playtest decks and play commander online for free.
+- [The Index](https://tcgstrat.com/index) - Pricing and expected-value tracking for single cards and sealed product
