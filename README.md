@@ -90,3 +90,4 @@ A curated list of awesome EDH / MTG Commander resources
 - [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 - [EDHLAB](https://edhlab.gg) - Playtest decks and play commander online for free.
 - [The Index](https://tcgstrat.com/index) - Pricing and expected-value tracking for single cards and sealed product
+- [Sleeved](https://sleeved.to) - Free tracker for where each physical copy of your cards is sleeved across your decks: how many are free, which deck has the one you need, and moving a copy from one deck to another. Imports deck lists and collection CSVs.
