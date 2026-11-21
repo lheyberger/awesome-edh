@@ -90,6 +90,7 @@ A curated list of awesome EDH / MTG Commander resources
 - [Farseek](https://farseek.ai) - AI Commander deckbuilder — discover upgrades, chat through cuts, and brew from your collection. Grounded in live Scryfall search and oracle text.
 - [EDHLAB](https://edhlab.gg) - Playtest decks and play commander online for free.
 - [The Index](https://tcgstrat.com/index) - Pricing and expected-value tracking for single cards and sealed product
+- [Sleeved](https://sleeved.to) - Free tracker for where each physical copy of your cards is sleeved across your decks: how many are free, which deck has the one you need, and moving a copy from one deck to another. Imports deck lists and collection CSVs.
 - [ArcaneMetriX](https://arcanemetrix.com/) - A deckbuilder focused on ease of use & visual aids for learning about your decks. Also supports collection tracking & scheduling/tracking your pod's games.
 - [Upkeep: MTG Life Counter](https://arcanemetrix.com/upkeep) - Available from both [Google Play Store](https://play.google.com/store/apps/details?id=com.arcanemetrix.upkeep&pli=1) and [Apple's App Store](https://apps.apple.com/us/app/upkeep-mtg-life-counter/id6815003745), this app is tied into the [ArcaneMetriX](https://arcanemetrix.com/) ecosystem. It is a stand alone life tracker that also tracks game actions and presents stats on decks and social dynamics within your pod.
 - [Mana Grove bracket checker](https://themanagrove.com/tools/bracket-checker) - Paste a decklist to see which bracket (2 to 4) its cards point to, and why.
