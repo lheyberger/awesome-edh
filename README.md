@@ -92,3 +92,4 @@ A curated list of awesome EDH / MTG Commander resources
 - [The Index](https://tcgstrat.com/index) - Pricing and expected-value tracking for single cards and sealed product
 - [Spellgs](https://spellgs.com/) - Find weekly Commander nights at US local game stores, with proxy and bracket policies
 - [Spellpods](https://spellpods.com/) - Post or join a Commander pod at your local game store by bracket and proxy level
+- [The Black Grimoire](https://theblackgrimoire.com) - Free Commander and Brawl deck builder that ranks cards from public decklists and builds from your own collection and budget.
